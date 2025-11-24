@@ -116,7 +116,7 @@ This project addresses critical challenges in traditional water tank management 
 ### Software Setup
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/pasindulekamwasam/Smart-Water-Tank-Monitoring-System.git
+   git clone https://github.com/yushi2003/Smart-Water-Tank-Monitoring-System.git
    cd Smart-Water-Tank-Monitoring-System
    ```
 
@@ -483,7 +483,7 @@ Our team adopted a **component-based development strategy** where each member sp
 - **🔬 Turbidity Measurement** (Lekamwasam N.L.P.M.): Turbidity sensor implementation and system integration
 
 **Hardware Integration Process:**
-The physical system assembly required close collaboration, with **Lekamwasam N.L.P.M. coordinating the hardware integration** while each team member contributed their sensor expertise and assisted with the assembly process. This approach ensured that theoretical sensor knowledge was properly implemented in the physical system.
+The physical system assembly required close collaboration, with **Nanayakkara Y.S. coordinating the pump operation** while each team member contributed their sensor expertise and assisted with the assembly process. This approach ensured that theoretical sensor knowledge was properly implemented in the physical system.
 
 **Code Integration:**
 All individual sensor codes were successfully integrated into a unified system, with each member's algorithms contributing to the final working solution.
@@ -600,6 +600,7 @@ Each team member developed deep expertise in their assigned area while contribut
 **📏 Distance Measurement Systems** (Nanayakkara Y.S.): 
 - Ultrasonic sensor programming and water level calculation algorithms
 - Distance-to-level conversion and data validation methods
+- pump operation
 
 **📺 User Interface Development** (Wijesekara M.G.N.L.): 
 - LCD display management and multi-page information systems
